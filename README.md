@@ -60,6 +60,8 @@ jupyter notebook Public_Facing_GenerativeAI.ipynb
 
 No Python dependencies are required to read the notebook; it is markdown and images. Optional: install [Jupyter](https://jupyter.org/) or open the `.ipynb` in an editor that supports notebooks.
 
+**Navigation:** in Colab, use its built-in **Table of contents** panel. Inline fragment links are verified in exported HTML, but GitHub's notebook preview can rewrite those links and Colab does not reliably scroll to custom anchors.
+
 ---
 
 ## Project Structure
