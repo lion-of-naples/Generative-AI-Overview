@@ -27,7 +27,16 @@ Whether you're new to GenAI, preparing talks or courses, or aligning with engine
 | **Pretraining** | Datasets (e.g. Fineweb, Common Crawl), encoding & tokenization, transformer architecture, and inference |
 | **Post-training: SFT** | Supervised fine tuning with human (and LLM) feedback; conversation data and ideal responses |
 | **Post-training: RL** | Human-based RL (e.g. RLHF) and full reinforcement learning (e.g. DeepSeek-style “thinking” and chain-of-thought) |
+| **Quantum Computing and Generative AI** | Four pipeline callouts; dated hardware evidence; technique maturity; scoped post-quantum security requirements; proposed breakout exercises |
 | **Glossary** | Definitions for AI, GenAI, LLM, tokenization, transformer, inference, context window, base model, SFT, RLHF, epoch, loss — with Perplexity links for more context |
+
+### Quantum coverage and evidence scope
+
+The quantum material was reviewed on **October 3, 2026**. It separates peer-reviewed results, preprints, vendor reports, roadmaps, draft standards, and government directives, with inline citations in the notebook.
+
+The security section distinguishes covered federal agency systems from National Security Systems and distinguishes proposed FAR rulemaking from an effective final rule. Use it as an educational overview, not as a system-specific compliance determination; consult the cited authority and current applicable requirements.
+
+The six hands-on exercises are **proposals only**: no quantum code or executed experiment results are included. The Quantum and AI Focus Group is planned, and registration is not yet available.
 
 ---
 
@@ -70,7 +79,7 @@ The notebook includes signup links for focus groups (Pretraining, Encoding, Tran
 
 We welcome contributions and new focus-group members:
 
-- **Focus groups:** Each section in the notebook has an associated focus group. Signup links are in the notebook; join a group to go deeper and contribute.
+- **Focus groups:** Existing GenAI focus-group signup links are in the notebook; join a group to go deeper and contribute. The new Quantum and AI group is planned, with registration not yet available.
 - **Breakouts:** As we add or reference more detailed notebooks and resources, we link them from this overview.
 - **Suggestions:** Open an issue or pull request to propose changes to the overview or the README.
 
