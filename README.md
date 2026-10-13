@@ -24,11 +24,11 @@ Whether you're new to GenAI, preparing talks or courses, or aligning with engine
 | Section | Description |
 |--------|-------------|
 | **Generative AI in three parts** | Pre-training, Supervised Fine Tuning (SFT), and Reinforcement Learning (RL) — with simple analogies |
-| **Pretraining** | Datasets (e.g. Fineweb, Common Crawl), encoding & tokenization, transformer architecture, and inference |
+| **Pretraining** | Datasets (e.g. Fineweb, Common Crawl), encoding & tokenization, byte-level (token-free) model research, transformer architecture, and inference |
 | **Post-training: SFT** | Supervised fine tuning with human (and LLM) feedback; conversation data and ideal responses |
 | **Post-training: RL** | Human-based RL (e.g. RLHF) and full reinforcement learning (e.g. DeepSeek-style “thinking” and chain-of-thought) |
 | **Quantum Computing and Generative AI** | Four pipeline callouts; dated hardware evidence; technique maturity; scoped post-quantum security requirements; proposed breakout exercises |
-| **Glossary** | Definitions for AI, GenAI, LLM, tokenization, transformer, inference, context window, base model, SFT, RLHF, epoch, loss — with Perplexity links for more context |
+| **Glossary** | Definitions for AI, GenAI, LLM, tokenization, byte-level models, transformer, inference, context window, base model, SFT, RLHF, epoch, loss — with Perplexity links for more context |
 
 ### Quantum coverage and evidence scope
 
@@ -93,6 +93,7 @@ We welcome contributions and new focus-group members:
 - **Fineweb** — [Hugging Face](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1) — open pretraining dataset discussed in the notebook
 - **Common Crawl** — [commoncrawl.org](https://commoncrawl.org) — open web data used by many pretraining pipelines
 - **Attention is all you need** — [arXiv:1706.03762](https://arxiv.org/pdf/1706.03762) — seminal transformer paper
+- **Stanford CS336: Language Modeling from Scratch** — [cs336.stanford.edu](https://cs336.stanford.edu/) — source for the October 2026 tokenization and byte-level model notes
 
 ---
 
